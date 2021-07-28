@@ -1,1 +1,24 @@
 201911012143549e8ee6e146f435a31d57b8bf36bc1e9901a9f7649f52bf50
+master:main
+
+-----> Building on the Heroku-20 stack
+    remote: -----> Determining which buildpack to use for this app
+    remote:  !     No default language could be detected for this app.
+    remote:                         HINT: This occurs when Heroku cannot detect the buildpack to use for this application automatically.
+    remote:                         See https://devcenter.heroku.com/articles/buildpacks
+    remote:
+    remote:  !     Push failed
+    remote:  !
+    remote:  ! ## Warning - The same version of this code has already been built: 1b461938974e19dafd44baf4db9e9a43f4db7f2e
+    remote:  !
+    remote:  ! We have detected that you have triggered a build from source code with version 1b461938974e19dafd44baf4db9e9a43f4db7f2e
+    remote:  ! at least twice. One common cause of this behavior is attempting to deploy code from a different branch.
+    remote:  !
+    remote:  ! If you are developing on a branch and deploying via git you must run:
+    remote:  !
+    remote:  !     git push heroku <branchname>:main
+    remote:  !
+    remote:  ! This article goes into details on the behavior:
+    remote:  !   https://devcenter.heroku.com/articles/duplicate-build-version
+    remote:
+    remote: Verifying deploy...

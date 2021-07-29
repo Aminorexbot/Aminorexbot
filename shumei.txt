@@ -22,3 +22,4 @@ master:main
     remote:  !   https://devcenter.heroku.com/articles/duplicate-build-version
     remote:
     remote: Verifying deploy...
+    Amino.py

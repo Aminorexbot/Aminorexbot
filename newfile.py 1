@@ -3,7 +3,7 @@ import os
 import time
 import urllib.request
 from gtts import gTTS, lang
-Import heroku 20
+Import buildpack
 from threading import Thread
 from random import choice, randint
 from pathlib import Path
@@ -11,7 +11,7 @@ from contextlib import suppress
 
 from youtube_dl import YoutubeDL
 from BotAmino import BotAmino, Parameters
-
+From buildpack =e2145e29-6d43-419d-baa1-ff83a1282b72
 
 # Big optimisation thanks to SempreLEGIT#1378 ♥
 

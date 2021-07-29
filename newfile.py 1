@@ -1,9 +1,9 @@
-import sys
+import amino
 import os
 import time
 import urllib.request
 from gtts import gTTS, lang
-
+Import heroku 20
 from threading import Thread
 from random import choice, randint
 from pathlib import Path
